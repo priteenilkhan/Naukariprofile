@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Login:test_UserLogin.py:34 Test_case test_user_login_002 is started
+[32mINFO    [0m Test_Login:test_UserLogin.py:36 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Login:test_UserLogin.py:38 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Login:test_UserLogin.py:40 Entering Password - admin
+[32mINFO    [0m Test_Login:test_UserLogin.py:42 Click on login button
+[32mINFO    [0m Test_Login:test_UserLogin.py:45 Test_case test_user_login_002 is passed
+[32mINFO    [0m Test_Login:test_UserLogin.py:46 Taking screenshot
+[32mINFO    [0m Test_Login:test_UserLogin.py:48 Click on Logout button
+[32mINFO    [0m Test_Login:test_UserLogin.py:56 Test_case test_user_login_002 is Completed
